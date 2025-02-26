@@ -10,11 +10,7 @@ const poems = [
     image: "pizza.jpeg",
   },
   {
-<<<<<<< HEAD
     author: "Rehma",
-=======
-    author: "Go",
->>>>>>> develop
     poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
     image: "google.jpg",
   },  
